@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% load socialaccount %}
+{% block title %} About Me {% endblock title %}
+{% block body %}
+<h1 class="mx-auto my-0 text uppercase">About me: </h1>
+<h5 class="text-black-50 mx auto mt-2 mb-5"> Soy victoria......</h5>
+
+{% endblock %}
+<!-- -->
+{% block changecontent %}
+<body style="background-color:black">
+    <p class="text-white-50 mx-auto mt-2 mb-5"> Cualquier sugerencia puedes enviarla a la información de contacto al final de la página  </p>> 
+</body>
+{% endblock %}
+
+
+
+
+{% block contacto %}
+<!-- CONTACTO-->
+<section class="contact-section bg-black">
+    
+            <div class="row-md-4 mb-3 mb-md-0">
+                <div class="card py-4 h-100">
+                    <div class="card-body text-center">
+                        <i class="fas fa-envelope text-primary mb-2"></i>
+                        <h4 class="text-uppercase m-0">contact</h4>
+
+                        <div class="small text-black-50"><a href="#!">victoria.romero1810@gmail.com</a></div>
+                    </div>
+                </div>
+            </div>
+    
+</section>
+{% endblock %}
