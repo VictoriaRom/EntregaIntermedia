@@ -14,7 +14,6 @@ desde cualquier parte del mundo.</h4>
 <li>Buscar a tus canciones y artistas favoritos </li>
 </ol>
 </h4>
---------------------------------------------------------------------------------------------
 
 <h2> Herramientas </h2>
 
@@ -62,8 +61,8 @@ python manage.py runserver
 <h2>Correr el codigo </h2>
 
 <h4> Ir a la terminal de tu IDE, y escribir 
-``` 
-python manage.py runserver
-```
+}
+python manage.py runserver. 
+
 "MusicSpotApp" app va a empezar 127.0.0.1:8000
 </h4>
