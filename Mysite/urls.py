@@ -21,7 +21,7 @@ from django.conf.urls.static import static
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("accounts/",include("allauth.urls")), #all-auth codigo documentacion google
+    path("accounts/",include("allauth.urls")), #all-auth codigo encontrado en una documentacion google
     path("",include("Spotmusic.urls")),
 ]
 
