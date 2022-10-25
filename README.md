@@ -64,5 +64,5 @@ python manage.py runserver
 }
 python manage.py runserver. 
 
-"MusicSpotApp" app va a empezar 127.0.0.1:8000
+"Spotmusic" app va a empezar 127.0.0.1:8000
 </h4>
