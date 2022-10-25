@@ -3,7 +3,6 @@
 <h4> Spotmusic, será un reproductor de música que te permitirá agregar y escuchar canciones 
 desde cualquier parte del mundo.</h4>
 
-============================================================================================
 
 <h2> Caracteristicas </h2>
 
